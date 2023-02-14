@@ -4,3 +4,10 @@
 div {
 	color: purple;
 }
+
+#Header {
+	background-color: black;
+   color: yellowgreen;
+  padding: 40px;
+   text-align: center;
+  }
