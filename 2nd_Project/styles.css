@@ -1,13 +1,45 @@
 /*	STYLE.CSS	*/
 
 
-div {
-	color: purple;
+/* div {
+	color: pink;
+} */
+
+p{
+	color: brown;
 }
+
+.alert-text.urgent{
+	color: white;
+	background-color: black;
+}
+/* 
+.urgent{
+	background-color: black;
+} */
+
+.sub#preview{
+	background-color: goldenrod;
+}
+
+
+.ancestor .contents{
+	color: blue;
+	background-color: yellow;
+}
+
+/*
+.alert-text,
+.urgent{
+	color: red;
+	background-color: black;				THIS IS ALSO VALID!!
+}
+*/
+
 
 #Header {
 	background-color: black;
-   color: yellowgreen;
-  padding: 40px;
-   text-align: center;
+  	color: yellowgreen;
+  	padding: 40px;
+	text-align: center;
   }
